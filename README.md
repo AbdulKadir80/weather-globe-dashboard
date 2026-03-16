@@ -74,7 +74,8 @@ The application will open automatically in your browser.
 <p align="center">
   <img src="images/dashboard.png" width="800">
 </p>
----
+
+
 ## 📁 Project Structure
 
 ```
